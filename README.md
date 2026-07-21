@@ -11,7 +11,7 @@ O sistema recebe um prompt descrevendo a imagem desejada, permite definir elemen
 O objetivo deste projeto é demonstrar a utilização de um modelo de geração de imagens baseado em texto.
 
 O sistema permite:
-.
+
 - Gerar imagens a partir de descrições textuais;
 - Definir elementos que não devem aparecer na imagem;
 - Gerar múltiplas imagens para um mesmo prompt;
